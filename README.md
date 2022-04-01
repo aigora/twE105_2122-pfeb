@@ -4,7 +4,10 @@
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+#####Pablo Balmaseda Gila, fzpabloo.
+#####Eduardo Fernández García, Edufdezg.
+#####Miguel Franganillo Plaza, Franganillo74.
+#####Ignacio Bravo Avendaño, IgnacioBravo013.
 
 ## Objetivos del trabajo
 
