@@ -10,4 +10,4 @@ El clásico juego del ajedrez entre dos usuarios con la finalidad de comer pieza
 
 ## Objetivos del trabajo
 
-El objetivo del trabajo es realizar un programa que consista en un tablero de 64 casillas y 16 piezas por cada jugador en el que haya una partida de ajedrez entre dos usuarios cualesquiera con la finalidad de desplazar piezas y comérselas al rival para intentar con destreza ganar al rival mediante el jaque mate, utilizando los conceptos aprendidos en clase.
+El objetivo del trabajo es realizar un programa que consista en un tablero de 64 casillas y 16 piezas por cada jugador, en el que haya una partida de ajedrez entre dos usuarios con la finalidad de desplazar piezas y comérselas al rival, para intentar con destreza ganar mediante el jaque mate, utilizando los conceptos aprendidos en clase.
