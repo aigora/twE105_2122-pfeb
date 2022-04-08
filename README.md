@@ -1,4 +1,4 @@
-# EL PADRE DEL AJEDREZ
+# PFEB
 El clásico juego del ajedrez entre dos usuarios con la finalidad de comer piezas e intentar ganar al rival.
 
 ## Integrantes del equipo
