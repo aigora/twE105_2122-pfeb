@@ -1,5 +1,5 @@
-# PFEB
-El clásico juego del ajedrez entre dos usuarios con la finalidad de comer piezas e intentar ganar al rival.
+# SCAPE BOOM
+El Scape Room eatá basado en el intento de descativar una bomba acertando preguntas
 
 ## Integrantes del equipo
 
@@ -10,4 +10,8 @@ El clásico juego del ajedrez entre dos usuarios con la finalidad de comer pieza
 
 ## Objetivos del trabajo
 
-El objetivo del trabajo es realizar un programa que consista en un tablero de 64 casillas y 16 piezas por cada jugador, en el que haya una partida de ajedrez entre dos usuarios con la finalidad de desplazar piezas y comérselas al rival, para intentar con destreza ganar mediante el jaque mate, utilizando los conceptos aprendidos en clase.
+Los principales objetivos del Scape Room son:
+- Que tenga varios niveles de dificultad
+- Las pruebas se puedan actualizar y ampliar facilmente
+- Que puedan jugar uno o varios jugadores
+- Recibir recompensas o penalizaciones
